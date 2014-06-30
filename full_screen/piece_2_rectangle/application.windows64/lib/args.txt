@@ -1,0 +1,3 @@
+ -Xms64m -Xmx1000m
+piece_2_rectangle
+piece_2_rectangle.jar,core.jar,JSynClasses.jar,sonia_v2_9.jar,RXTXcomm.jar,serial.jar,jl1.0.jar,jsminim.jar,minim-spi.jar,minim.jar,mp3spi1.9.4.jar,tritonus_aos.jar,tritonus_share.jar
